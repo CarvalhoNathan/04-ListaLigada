@@ -156,6 +156,6 @@ Copie o link do seu repositório e cole-o na tarefa correspondente no Microsoft 
   * **[Artigo] GeeksforGeeks - Linked List Data Structure**: Um dos melhores recursos online, com explicações detalhadas e exemplos de código para todas as operações.
       * [https://www.geeksforgeeks.org/data-structures/linked-list/](https://www.geeksforgeeks.org/data-structures/linked-list/)
   * **[Vídeo] Lista Encadeada - Estrutura de Dados (YouTube)**: Para quem prefere um aprendizado visual, este vídeo do canal "Programação Descomplicada" explica o conceito de forma clara (em português).
-      * [https://www.youtube.com/watch?v=S5ZU8fErv\_E](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DS5ZU8fErv_E)
+      * [https://www.youtube.com/watch?v=S5ZU8fErv\_E](https://www.youtube.com/watch?v=biTMaMxWLRc)
   * **[Documentação] cplusplus.com - Pointers**: Para revisar a sintaxe e o conceito de ponteiros em C++.
       * [https://cplusplus.com/doc/tutorial/pointers/](https://cplusplus.com/doc/tutorial/pointers/)
